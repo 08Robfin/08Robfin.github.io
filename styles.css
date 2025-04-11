@@ -122,7 +122,6 @@ section {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
     border: 1px solid rgba(0, 0, 0, 0.05);
     line-height: 1.8;
-    font-size: 1.3rem;
 }
 
 .about-content p {
@@ -155,7 +154,7 @@ section {
 }
 
 .project-card h3 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-bottom: 1rem;
     color: var(--primary);
 }
@@ -275,7 +274,7 @@ footer {
 }
 
 .intro-text {
-    font-size: clamp(6rem, 6vw, 4rem);
+    font-size: clamp(2rem, 6vw, 4rem);
     font-weight: 700;
     background: linear-gradient(90deg, var(--primary), var(--secondary));
     -webkit-background-clip: text;
