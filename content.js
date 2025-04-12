@@ -20,7 +20,7 @@ const content = {
         },
         {
             title: "Ungdomspartiene",
-            description: "This is a website where you can view an overview of most Norwegian youth political parties. Some parties are missing, as this was just a school project to learn HTML and JavaScript.",
+            description: "This is a website where you can view an overview of most Norwegian youth political parties. Some parties are missing, as this was just a school project to learn HTML and JavaScript. (Please note that all the political info is AI generated so it might be wrong!)",
             link: "https://up.robinf.pro/",
             linkText: "View Site"
         },
