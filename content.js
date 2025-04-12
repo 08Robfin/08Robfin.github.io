@@ -1,7 +1,7 @@
 // All editable content goes here
 const content = {
     name: "Robin Finnestad",
-    tagline: "IT Student & Tech Enthusiast from Vennesla, Norway",
+    tagline: "IT Student & Political Activist from Norway",
     
     about: `
         <p>Hey! I'm Robin, a 16-year-old Information Technology student (Vg1) at Tangen VGS in kristiansand.</p>
